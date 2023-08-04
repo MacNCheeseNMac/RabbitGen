@@ -16,6 +16,14 @@
             "Is relaxing in camp",
             "Is daydreaming",
             "Is napping",
+            "Is enjoying the refreshing feeling of the dew on the grass they're grazing",
+            "Is daydreaming about a nice, ripe bunch of berries...",
+            "Is in the tunnels",
+            "Is refreshing their mental map of the tunnels today",
+	        "Is helping repair an older stretch of tunnel",
+            "Found a four-leaf clover while grazing!",
+            "Is working on the tunnels",
+            "Found a skeleton in an older stretch of tunnel... creepy",
             "Thinks {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} going crazy",
             "Is feeling gloomy",
             "Is looking around camp",
@@ -154,7 +162,6 @@
             "Is proud of r_c's growth",
             "Knows r_c will make a great Clanmate someday",
             "Is playing mossball with r_c",
-            "Watches r_c pretend to hunt a mouse",
             "Catches r_c attempting to burrow in unstable land"
         ],
         "main_status_constraint": [
